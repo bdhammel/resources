@@ -10,3 +10,7 @@ Python best practices
 CI/CD
 - https://monorepo.tools
 - https://google.github.io/eng-practices/review/
+
+Team structure
+- https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249
+- https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/

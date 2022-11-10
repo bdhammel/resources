@@ -14,3 +14,4 @@ CI/CD
 Team structure
 - https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249
 - https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/
+- https://ronjeffries.com/xprog/articles/the-noestimates-movement/

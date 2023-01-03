@@ -2,10 +2,13 @@
 
 
 
+Code design
+- compesition v inheritance: https://www.youtube.com/watch?v=hxGOiiR9ZKg
+- https://kentcdodds.com/blog/colocation
+
 Python best practices
 - https://docs.quantifiedcode.com/python-anti-patterns/
 - https://www.gnu.org/software/libc/manual/html_node/Argument-Syntax.html
-- https://kentcdodds.com/blog/colocation
 
 CI/CD
 - https://monorepo.tools

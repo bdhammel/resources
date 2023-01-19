@@ -5,6 +5,7 @@
 Code design
 - compesition v inheritance: https://www.youtube.com/watch?v=hxGOiiR9ZKg
 - https://kentcdodds.com/blog/colocation
+- https://www.bloomberg.com/company/stories/guide-logging-python/
 
 Python best practices
 - https://docs.quantifiedcode.com/python-anti-patterns/

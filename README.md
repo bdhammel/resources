@@ -1,7 +1,6 @@
 # Resources
 
 
-
 Code design
 - compesition v inheritance: https://www.youtube.com/watch?v=hxGOiiR9ZKg
 - https://kentcdodds.com/blog/colocation
@@ -15,11 +14,13 @@ Python best practices
 
 CI/CD
 - https://monorepo.tools
+- https://talkpython.fm/episodes/show/399/monorepos-in-python
 - https://google.github.io/eng-practices/review/
 - https://docs.sonarqube.org/7.7/user-guide/fixing-the-water-leak/
 
 Team structure
 - https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249
 - https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/
+- https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
 - https://ronjeffries.com/xprog/articles/the-noestimates-movement/
 - https://review.firstround.com/investing-in-internal-documentation-a-brick-by-brick-guide-for-startups#make-writing-a-part-of-the-job-ladder

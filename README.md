@@ -11,6 +11,7 @@ Python best practices
 - https://docs.quantifiedcode.com/python-anti-patterns/
 - https://www.gnu.org/software/libc/manual/html_node/Argument-Syntax.html
 - https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/
+- https://stevedower.id.au/blog/most-critical-python-metric
 
 CI/CD
 - https://monorepo.tools

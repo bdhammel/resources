@@ -25,3 +25,7 @@ Team structure
 - https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
 - https://ronjeffries.com/xprog/articles/the-noestimates-movement/
 - https://review.firstround.com/investing-in-internal-documentation-a-brick-by-brick-guide-for-startups#make-writing-a-part-of-the-job-ladder
+
+Interviews
+- https://doordash.engineering/2021/01/14/data-scientists-technical-skill-business-impact/
+- https://fulcrum.lever.co/a-better-way-to-interview-software-engineers-fa9b5d2b5316

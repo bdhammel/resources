@@ -6,6 +6,7 @@ Code design
 - https://kentcdodds.com/blog/colocation
 - https://www.bloomberg.com/company/stories/guide-logging-python/
 - https://github.com/DovAmir/awesome-design-patterns
+- https://www.martinfowler.com/ieeeSoftware/failFast.pdf
 
 Python best practices
 - https://docs.quantifiedcode.com/python-anti-patterns/

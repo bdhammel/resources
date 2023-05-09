@@ -7,6 +7,7 @@ Code design
 - https://www.bloomberg.com/company/stories/guide-logging-python/
 - https://github.com/DovAmir/awesome-design-patterns
 - https://www.martinfowler.com/ieeeSoftware/failFast.pdf
+- https://realpython.com/solid-principles-python/
 
 Python best practices
 - https://docs.quantifiedcode.com/python-anti-patterns/

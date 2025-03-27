@@ -28,6 +28,7 @@ Team structure
 - https://ronjeffries.com/xprog/articles/the-noestimates-movement/
 - https://review.firstround.com/investing-in-internal-documentation-a-brick-by-brick-guide-for-startups#make-writing-a-part-of-the-job-ladder
 - https://www.benkuhn.net/leadcats/
+- https://staffeng.com/guides/staff-archetypes/
 
 Interviews
 - https://doordash.engineering/2021/01/14/data-scientists-technical-skill-business-impact/
